@@ -1,0 +1,8 @@
+D:\SocketClient-SZY\ZySocketClient\ZySocketClient\bin\Debug\net452\ZySocketClient.dll
+D:\SocketClient-SZY\ZySocketClient\ZySocketClient\bin\Debug\net452\ZySocketClient.pdb
+D:\SocketClient-SZY\ZySocketClient\ZySocketClient\obj\Debug\net452\ZySocketClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\SocketClient-SZY\ZySocketClient\ZySocketClient\obj\Debug\net452\ZySocketClient.AssemblyInfoInputs.cache
+D:\SocketClient-SZY\ZySocketClient\ZySocketClient\obj\Debug\net452\ZySocketClient.AssemblyInfo.cs
+D:\SocketClient-SZY\ZySocketClient\ZySocketClient\obj\Debug\net452\ZySocketClient.csproj.CoreCompileInputs.cache
+D:\SocketClient-SZY\ZySocketClient\ZySocketClient\obj\Debug\net452\ZySocketClient.dll
+D:\SocketClient-SZY\ZySocketClient\ZySocketClient\obj\Debug\net452\ZySocketClient.pdb

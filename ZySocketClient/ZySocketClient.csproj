@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net452;netcoreapp3.1</TargetFrameworks>
+	<Authors>Zhongyu Shi</Authors>
+	<Description>Socket Client客户端实现，包含自动重连功能</Description>
+	<Version>1.0.1</Version>
+  </PropertyGroup>
+
+</Project>

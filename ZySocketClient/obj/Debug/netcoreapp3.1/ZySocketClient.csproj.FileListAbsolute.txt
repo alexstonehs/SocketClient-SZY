@@ -1,0 +1,9 @@
+D:\SocketClient-SZY\ZySocketClient\ZySocketClient\bin\Debug\netcoreapp3.1\ZySocketClient.deps.json
+D:\SocketClient-SZY\ZySocketClient\ZySocketClient\bin\Debug\netcoreapp3.1\ZySocketClient.dll
+D:\SocketClient-SZY\ZySocketClient\ZySocketClient\bin\Debug\netcoreapp3.1\ZySocketClient.pdb
+D:\SocketClient-SZY\ZySocketClient\ZySocketClient\obj\Debug\netcoreapp3.1\ZySocketClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\SocketClient-SZY\ZySocketClient\ZySocketClient\obj\Debug\netcoreapp3.1\ZySocketClient.AssemblyInfoInputs.cache
+D:\SocketClient-SZY\ZySocketClient\ZySocketClient\obj\Debug\netcoreapp3.1\ZySocketClient.AssemblyInfo.cs
+D:\SocketClient-SZY\ZySocketClient\ZySocketClient\obj\Debug\netcoreapp3.1\ZySocketClient.csproj.CoreCompileInputs.cache
+D:\SocketClient-SZY\ZySocketClient\ZySocketClient\obj\Debug\netcoreapp3.1\ZySocketClient.dll
+D:\SocketClient-SZY\ZySocketClient\ZySocketClient\obj\Debug\netcoreapp3.1\ZySocketClient.pdb

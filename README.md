@@ -1,2 +1,2 @@
 # SocketClient-SZY
-A TCP protocol socket client helper code
+A TCP protocol socket client helper code, with auto-reconnect feature.
